@@ -68,6 +68,7 @@ p1 {
 
   .dropdown {
     float: left;
+    font-size:16px;
     overflow: hidden;
   }
   
