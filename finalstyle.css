@@ -294,32 +294,9 @@ p1 {
     font-size:22px;
     position:absolute;
     background-color: white;
-    margin-top:380px;
-    margin-left:75px;
-}
-
-.BinaryCaption {
-    font-size:22px;
-    position:absolute;
-    background-color: white;
-    margin-top:380px;
-    margin-left:430px;
-}
-
-.EarthMoonCaption {
-    font-size:22px;
-    position:absolute;
-    background-color: white;
-    margin-top:380px;
-    margin-left:785px;
-}
-
-.MarsMoonsCaption {
-    font-size:22px;
-    position:absolute;
-    background-color: white;
-    margin-top:380px;
-    margin-left:1140px;
+    float:left;
+    width:17%;
+    padding:10px;
 }
 
 
