@@ -293,7 +293,8 @@ p1 {
 .Caption {
     font-size:20px;
     background-color: white;
-    float:left;
+    float:bottom;
+    position:absolute;
     width:17%;
     padding:10px;
 }
