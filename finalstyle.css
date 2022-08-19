@@ -278,15 +278,11 @@ p1 {
     font-size:20px;
 }
  
-
 .SimImage {
     float:left;
     width:17%;
     padding:50px;
 }
-
-
-
 
 .Caption {
     font-size:20px;
@@ -294,17 +290,6 @@ p1 {
     float:left;
     width:17%;
     padding:20px;
-    margin-top:205px;
+    margin-top:220px;
+    position:relative;
 }
-
-
-
-
-
-
-
-
-
-
-
-
