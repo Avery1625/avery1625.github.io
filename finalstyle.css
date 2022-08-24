@@ -284,10 +284,15 @@ p1 {
     padding:50px;
 }
 
-.Caption {
+/* .Caption {
     font-size:20px;
     background-color: white;
     float:left;
     width:5%;
+    margin-top:450px;
+} */
+
+#SolarCaption {
+    float:left;
     margin-top:450px;
 }
