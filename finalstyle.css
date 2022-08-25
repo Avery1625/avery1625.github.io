@@ -281,14 +281,14 @@ p1 {
 .SimImage {
     float:left;
     width:17%;
-    padding:50px;
+    padding:5%;
 }
 
 .Caption {
     font-size:15px;
     background-color: white;
     float:left;
-    width:8%;
+    width:15%;
     display:inline-block;
     margin-top:450px;
     margin-left:-150px;
