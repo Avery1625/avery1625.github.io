@@ -130,32 +130,25 @@ p1 {
 
 .SectionP2 {
     margin-left:740px;
-    background-color: rgb(234,212,97);
+    background-color: rgb(218,123,147);
     height:270px;
     margin-top:230px;
     width:620px;
-    box-shadow: -18px 18px 0px 6px rgba(151,147,149);
+    box-shadow: -18px 18px 0px 6px rgba(255,255,255);
 }
 
 .SectionP1 {
     float:left;
-    background-color:rgb(245,122,189);
+    background-color:rgb(218,123,147);
     margin-left:20px;
     margin-top:40px;
-    box-shadow: 18px 18px 0px 6px rgba(151,147,149);
+    box-shadow: 18px 18px 0px 6px rgba(255,255,255);
     height:300px;
     width:610px;
     
 }
 
-.fade-in {
-    animation:fadeIn 4.5s;
-    
-}
 
-@keyframes fadeIn {
-    0% {opacity: 0; }
-    100% {opacity: 1;}
 }
 .SectionP1Header {
     margin-left:25px;
