@@ -167,16 +167,16 @@ p1 {
 
 .SectionHeader {
     font-family:'Lucida Grande', 'Trebuchet MS', monospace;
-    font-style: bold;
+    font-weight: bold;
     font-stretch:ultra-condensed;
     margin-top:180px;
     font-size:40px;
-    font-color: black;
     
 }
 
  .Boxy {
     float:left;
+    color: black; 
     background-color:rgb(218,123,147);
     height: 200px;
     width: 400px;
@@ -286,7 +286,6 @@ p1 {
     float:left;
     width:17%;
     padding:5%;
-    background-color:rgb(218,123,147)
 }
 
 .Caption {
