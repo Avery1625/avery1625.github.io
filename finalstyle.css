@@ -108,7 +108,7 @@ p1 {
   }
   
   .dropdown-content a:hover {
-    color:deeppink;
+    color:rgb(55, 110, 111)
   }
   
   .dropdown:hover .dropdown-content {
@@ -261,7 +261,7 @@ p1 {
     font-stretch:narrower;
     float: left;
     font-size: 16px;
-    color: rgb(218,123,147);
+    color: deeppink;
     text-align: center;
     text-decoration: none;
     cursor: pointer;
