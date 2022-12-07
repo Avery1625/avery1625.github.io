@@ -166,12 +166,12 @@ p1 {
 }
 
 .SectionHeader {
-    font-family:'Lucida Console', monospace;
+    font-family:'Lucida Grande', 'Trebuchet MS', monospace;
     font-style: bold;
     font-stretch:extra-condensed;
     text-align:center;
     margin-top:140px;
-    font-size:30px;
+    font-size:40px;
     
 }
 
