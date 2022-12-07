@@ -168,17 +168,21 @@ p1 {
 .SectionHeader {
     font-family:'Lucida Grande', 'Trebuchet MS', monospace;
     font-style: bold;
-    font-stretch:extra-condensed;
-    text-align:center;
-    margin-top:140px;
+    font-stretch:ultra-condensed;
+    text-align:left;
+    margin-top:180px;
     font-size:40px;
     
 }
 
-/* .Boxy {
-background-color: 
+.Boxy {
+background-color:rgb(218,123,147);
+height: 200px;
+width: 400px;
+  
+    
 }
- */
+
 #ContactText {
     margin-left:20px;
     margin-top:540px;
