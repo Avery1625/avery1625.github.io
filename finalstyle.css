@@ -129,7 +129,7 @@ p1 {
 }
 
 .SectionP2 {
-    margin-left:740px;
+    float:center;
     background-color: rgb(218,123,147);
     height:270px;
     margin-top:230px;
@@ -138,10 +138,9 @@ p1 {
 }
 
 .SectionP1 {
-    float:left;
+    float:center;
     background-color:rgb(218,123,147);
-    margin-left:20px;
-    margin-top:40px;
+    margin-top:60px;
     box-shadow: 18px 18px 0px 6px rgba(255,255,255);
     height:300px;
     width:610px;
