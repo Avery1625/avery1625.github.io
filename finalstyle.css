@@ -86,7 +86,7 @@ p1 {
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    color:deeppink;
+    color:rgb(55, 110, 111);
   }
   
   .dropdown-content {
