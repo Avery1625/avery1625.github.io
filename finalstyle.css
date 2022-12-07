@@ -86,7 +86,7 @@ p1 {
   }
   
   .navbar a:hover, .dropdown:hover .dropbtn {
-    color:rgb(55, 110, 111);
+    color:rgb(11, 87, 89);
   }
   
   .dropdown-content {
@@ -108,7 +108,7 @@ p1 {
   }
   
   .dropdown-content a:hover {
-    color:rgb(55, 110, 111)
+    color:rgb(11, 87, 89)
   }
   
   .dropdown:hover .dropdown-content {
