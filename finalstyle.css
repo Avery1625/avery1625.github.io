@@ -283,8 +283,6 @@ width: 400px;
 }
  
 .SimImage {
-    border-style:solid;
-    border-color:white;
     float:left;
     width:17%;
     padding:5%;
