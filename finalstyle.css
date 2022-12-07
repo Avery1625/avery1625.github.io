@@ -166,14 +166,19 @@ p1 {
 }
 
 .SectionHeader {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family:'Lucida Console', monospace;
+    font-style: bold;
     font-stretch:extra-condensed;
     text-align:center;
     margin-top:140px;
-    font-size:25px;
+    font-size:30px;
     
 }
 
+/* .Boxy {
+background-color: 
+}
+ */
 #ContactText {
     margin-left:20px;
     margin-top:540px;
