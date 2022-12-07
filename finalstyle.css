@@ -169,17 +169,17 @@ p1 {
     font-family:'Lucida Grande', 'Trebuchet MS', monospace;
     font-style: bold;
     font-stretch:ultra-condensed;
-    text-align:left;
     margin-top:180px;
     font-size:40px;
     font-color: black;
     
 }
 
-.Boxy {
-background-color:rgb(218,123,147);
-height: 200px;
-width: 400px;
+ .Boxy {
+    float:left;
+    background-color:rgb(218,123,147);
+    height: 200px;
+    width: 400px;
   
     
 }
@@ -286,6 +286,7 @@ width: 400px;
     float:left;
     width:17%;
     padding:5%;
+    background-color:rgb(218,123,147)
 }
 
 .Caption {
