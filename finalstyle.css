@@ -51,10 +51,6 @@ p1 {
     height:60px;
     overflow: visible;
 }
-
-  
-  
-
   .navbar a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-stretch:narrower;
@@ -180,7 +176,7 @@ p1 {
     margin-left:20px;
     color: black; 
     background-color:rgb(218,123,147);
-    height: 300px;
+    height: 250px;
     width: 600px;
   
     
