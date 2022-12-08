@@ -174,11 +174,12 @@ p1 {
 }
 
  .Boxy {
-    float:left;
+    margin-top:180px;
+    margin-left:20px;
     color: black; 
     background-color:rgb(218,123,147);
     height: 200px;
-    width: 400px;
+    width: 600px;
   
     
 }
