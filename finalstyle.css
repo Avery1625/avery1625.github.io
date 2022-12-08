@@ -129,6 +129,7 @@ p1 {
     text-align:center;
     height:270px;
     margin-top:230px;
+     margin-left:500px;
     width:620px;
     color:black;
 /*     box-shadow: -18px 18px 0px 6px rgba(255,255,255); */
@@ -138,6 +139,7 @@ p1 {
     text-align:center;
     background-color:white;
     margin-top:60px;
+    margin-left:500px;
 /*     box-shadow: 18px 18px 0px 6px rgba(255,255,255); */
     height:300px;
     color:black;
