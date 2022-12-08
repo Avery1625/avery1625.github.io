@@ -129,19 +129,19 @@ p1 {
 }
 
 .SectionP2 {
-    float:center;
-    background-color: rgb(218,123,147);
+    text-align:center;
+    background-color:white;
     height:270px;
     margin-top:230px;
     width:620px;
-    box-shadow: -18px 18px 0px 6px rgba(255,255,255);
+/*     box-shadow: -18px 18px 0px 6px rgba(255,255,255); */
 }
 
 .SectionP1 {
-    float:center;
-    background-color:rgb(218,123,147);
+    text-align:center;
+    background-color:white;
     margin-top:60px;
-    box-shadow: 18px 18px 0px 6px rgba(255,255,255);
+/*     box-shadow: 18px 18px 0px 6px rgba(255,255,255); */
     height:300px;
     width:610px;
     
