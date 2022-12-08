@@ -205,6 +205,7 @@ p1 {
 #JJMODate {
     text-align:center;
     font-style:italic;
+    color:white;
 }
 
 
@@ -244,6 +245,7 @@ p1 {
     display:block;
     width:100%;
     height:auto;
+    margin-left:600px;
 }
 
 .overlay {
@@ -271,7 +273,7 @@ p1 {
     font-stretch:narrower;
     float: left;
     font-size: 16px;
-    color: deeppink;
+    color: rgb(218,123,147);
     text-align: center;
     text-decoration: none;
     cursor: pointer;
