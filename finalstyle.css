@@ -197,12 +197,11 @@ p1 {
    display:block;
 }
 
-#JJMOP1 {
-    width:500px;
-}
+
 
 #JJMODate {
     text-align:center;
+    font-style:italic;
 }
 
 
@@ -226,9 +225,9 @@ p1 {
     width:510px;
 }
 
-#JJMOBody {
+/* #JJMOBody {
     height: 900px;
-}
+} */
 
 .container {
     position:relative;
@@ -284,14 +283,4 @@ p1 {
     float:left;
     width:17%;
     padding:5%;
-}
-
-.Caption {
-    font-size:15px;
-    background-color: white;
-    float:left;
-    width:15%;
-    display:inline-block;
-    margin-top:450px;
-    margin-left:-250px;
 }
