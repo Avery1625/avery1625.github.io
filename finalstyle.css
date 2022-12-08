@@ -179,7 +179,7 @@ p1 {
     color: black; 
     background-color:rgb(218,123,147);
     height: 270px;
-    width: 600px;
+    width: 620px;
   
     
 }
@@ -196,6 +196,7 @@ p1 {
 #JJMOpic {
     margin-left:auto;
     margin-right:auto;
+    margin-top:310px;
    display:block;
 }
 
