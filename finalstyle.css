@@ -129,7 +129,7 @@ p1 {
     text-align:center;
     height:270px;
     margin-top:230px;
-     margin-left:500px;
+     margin-left:450px;
     width:620px;
     color:black;
 /*     box-shadow: -18px 18px 0px 6px rgba(255,255,255); */
@@ -139,7 +139,7 @@ p1 {
     text-align:center;
     background-color:white;
     margin-top:60px;
-    margin-left:500px;
+    margin-left:450px;
 /*     box-shadow: 18px 18px 0px 6px rgba(255,255,255); */
     height:300px;
     color:black;
@@ -196,7 +196,7 @@ p1 {
 #JJMOpic {
     margin-left:auto;
     margin-right:auto;
-    margin-top:310px;
+    margin-top:200px;
    display:block;
 }
 
@@ -238,7 +238,7 @@ p1 {
     width:50%;
     max-width:300px;
     margin-top:-480px;
-    margin-left:600px;
+    margin-left:450px;
         
 }
 
