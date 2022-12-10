@@ -196,7 +196,7 @@ p1 {
 #JJMOpic {
     margin-left:auto;
     margin-right:auto;
-    margin-top:50px;
+    margin-top:20px;
    display:block;
 }
 
@@ -238,7 +238,7 @@ p1 {
     width:50%;
     max-width:300px;
     margin-top:-480px;
-    margin-left:550px;
+    margin-left:620px;
         
 }
 
@@ -254,6 +254,7 @@ p1 {
     visibility:hidden;
     background:white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
     opacity:0;
     top:70px;
     bottom:85px;
