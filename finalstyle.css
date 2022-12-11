@@ -174,8 +174,8 @@ p1 {
 }
 
 #RadioPic {
-margin-left:auto;
-margin-right:auto;
+margin-left:620px;
+margin-top:70px;
 
 }
 /* .SectionP1Header {
@@ -292,7 +292,7 @@ margin-right:auto;
 }
 
 .CLubList2 {
-    font-size:17.5px;
+    font-size:18px;
 }
 
 .container:hover .overlay {
