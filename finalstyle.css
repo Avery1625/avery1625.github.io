@@ -128,7 +128,7 @@ p1 {
     background-color:white;
     text-align:center;
     height:270px;
-    margin-top:230px;
+    margin-top:100px;
      margin-left:450px;
     width:620px;
     color:black;
@@ -163,7 +163,7 @@ p1 {
     background-color:white;
     margin-left:450px;
     text-align:center;
-    margin-top:100px;
+    margin-top:230px;
 }
 .Boxy2 {
     color:black;
@@ -285,6 +285,10 @@ p1 {
     bottom:85px;
     left: 10px;
     right:10px;
+}
+
+.CLubList2 {
+    font-size:17.5px;
 }
 
 .container:hover .overlay {
