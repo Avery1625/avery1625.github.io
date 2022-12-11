@@ -143,8 +143,33 @@ p1 {
 /*     box-shadow: 18px 18px 0px 6px rgba(255,255,255); */
     height:300px;
     color:black;
-    width:610px;
+    width:610px;   
     
+}
+.SectionP3 {
+    color:black;
+    height:300px;
+    width:600px;
+    background-color:white;
+    margin-left:450px;
+    text-align:center;
+    margin-top:100px;
+        
+    }
+.Section P4 {
+        color:black;
+    height:300px;
+    width:600px;
+    background-color:white;
+    margin-left:450px;
+    text-align:center;
+    margin-top:100px;
+}
+.Boxy2 {
+    color:black;
+    background-color:rgb(218,123,147);
+    height:270px;
+    width:500px;
 }
 
 
