@@ -1,0 +1,75 @@
+
+@import url('https://fonts.cdnfonts.com/css/vemka');
+@font-face { font-family: Newake; src: url('newake-demo-400.otf'); } 
+@font-face { font-family: tan-mem; src: url('tan-memories.rar');}
+/* html,
+body {
+  height: 100%;  
+} */
+html,
+/* body {
+  overflow: hidden;
+  height: 100%;  
+  background-color: black;
+} */
+body {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    background-color: rgb(28 30 36);
+    color:  #f5f6ff;
+    height: 100%;  
+    overflow: hidden;
+
+    
+}
+#nameofthegame {
+    text-align: center;
+    font-family: tan-mem;
+    font-size: 30px;
+    text-shadow: 1.5px 1.5px #e1e1e4;
+    color:#9348f4;
+    line-height: 800px;
+    margin:auto;
+
+}
+#letter {
+    margin: auto;
+    /* font-family: Helvetica Neue,Helvetica,Arial,sans-serif; */
+    font-family: Newake;
+    color:rgb(28 30 36);
+    padding: 20px 40px;
+    background-color: #f5f6ff;
+    border-color:#b4b4bb;
+    opacity:.8;
+    border-width: 2px;
+    width: 40%;
+    height: 500px;
+}
+
+.button {
+    font-family: 'VEMKA', sans-serif;
+    padding: 2% 2% 7% 2%;
+    transition-duration: 0.4s;
+    font-size:80px;
+    cursor: pointer;
+    text-align: center;
+    display: inline-block;
+    position: fixed;
+    bottom: 50%;
+    right: 25%;
+    border-width: 2px;
+    border-color:#f5f6ff;
+    border-image: linear-gradient(to right,#9348f4 , #d9c1e0);
+    border-image-slice: 1;
+    /* text-decoration-line:underline;
+    text-decoration-style:wavy; */
+    margin: auto;
+    width: 50%;
+    height: 30px;
+    background-color:rgb(28 30 36);
+    color:  #ffee03;
+}
+.button:hover {
+    background-color: #ffee03;
+    color:rgb(28 30 36);
+  }
+/* ffee03 yellow, 1c1e24 black, 9348f4 purple, f5f6ff gray
