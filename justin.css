@@ -163,6 +163,7 @@ body {
         right: 10%;
         bottom: -10%;
         width: 80%;
+        overflow: scroll;
         padding: 10px 10px;
 
     }
