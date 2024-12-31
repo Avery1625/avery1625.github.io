@@ -151,7 +151,7 @@ body {
       height: 130px;
       padding: 2% 2% 10% 2%; 
       bottom: 50%;
-      right: 30%;
+      right: 15%;
       height: 60px;
       font-size: 40px; 
       text-align: center;
@@ -163,10 +163,11 @@ body {
     #letter {
         width:100%;
         right: 0%;
-        padding: 10px 20px;
+        padding: 10px 10px;
     }
     body {
         overflow: visible;
+        height:auto;
 
     }
 }
