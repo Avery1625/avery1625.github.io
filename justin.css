@@ -1,7 +1,13 @@
 
 @import url('https://fonts.cdnfonts.com/css/vemka');
 @font-face { font-family: Newake; src: url('newake-demo-400.otf'); } 
-@font-face { font-family: tan-mem; src: url('tan-memories.rar');}
+@font-face { font-family: tan-mem; src: url('TAN\ MEMORIES-Regular.otf');}
+@font-face {font-family: quirky-tan; src: url('TAN\ MEMORIES-Italic.otf');}
+@font-face {
+    font-family: La Sonnambula;
+    src: url(la-sonnambula-demo-ffp.ttf);
+}
+@font-face{font-family: lato; src:url('Lato-Semibold.ttf');}
 /* html,
 body {
   height: 100%;  
@@ -17,14 +23,22 @@ body {
     background-color: rgb(28 30 36);
     color:  #f5f6ff;
     height: 100%;  
-    overflow: hidden;
-
-    
+    overflow: hidden;   
 }
+/* #star1 img{
+    float:center;
+    padding: 5px;
+    width: 150px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    z-index:1;
+} */
 #nameofthegame {
     text-align: center;
-    font-family: tan-mem;
-    font-size: 30px;
+    font-family: quirky-tan;
+    font-size: 25px;
     text-shadow: 1.5px 1.5px #e1e1e4;
     color:#9348f4;
     line-height: 800px;
@@ -32,19 +46,68 @@ body {
 
 }
 #letter {
-    margin: auto;
     /* font-family: Helvetica Neue,Helvetica,Arial,sans-serif; */
-    font-family: Newake;
+    font-family: lato;
+    /* font-family: quirky-tan; */
+    text-align: center;
+    display:none;
+    z-index: 4;
+    bottom: -10%;
+    right: 25%;
     color:rgb(28 30 36);
-    padding: 20px 40px;
+    padding: 50px 40px;
+    position:absolute;
+    line-height: 2;
     background-color: #f5f6ff;
     border-color:#b4b4bb;
     opacity:.8;
     border-width: 2px;
     width: 40%;
+    animation: fadeIn 5s;
     height: 500px;
 }
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+.typey {
+    overflow: hidden;
+    /* white-space: nowrap; */
+    width: 0;
+    /* animation: typing;
+    animation-duration: 20s;
+    animation-timing-function: steps(30, end);
+    animation-fill-mode: forwards; */
+}
+.pic img{
+    border-radius: 50%;
+}
+#hat img{
+    /* right: 60%; */
+    float: right;
+    width: 90px; 
+    height: auto;
+    position:relative;
+    bottom: 70px;
+}
+#hoco img{
+    /* right: -15%; */
+    float:left;
+    height:90px;
+    position:relative;
+    width: auto;
+    bottom: 40px;
 
+}
+#sign {
+    font-family:"La Sonnambula" ;
+    font-size:20px;
+}
+/* @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  } */
 .button {
     font-family: 'VEMKA', sans-serif;
     padding: 2% 2% 7% 2%;
@@ -53,18 +116,20 @@ body {
     cursor: pointer;
     text-align: center;
     display: inline-block;
-    position: fixed;
+    position: absolute;
     bottom: 50%;
-    right: 25%;
-    border-width: 2px;
+    right: 20%;
+    height: 100px;
+    border-width: 4px;
     border-color:#f5f6ff;
-    border-image: linear-gradient(to right,#9348f4 , #d9c1e0);
+    border-image: linear-gradient(to right,#9348f4 , #f2edf3);
     border-image-slice: 1;
     /* text-decoration-line:underline;
     text-decoration-style:wavy; */
     margin: auto;
-    width: 50%;
+    width: 60%;
     height: 30px;
+    z-index:20;
     background-color:rgb(28 30 36);
     color:  #ffee03;
 }
@@ -72,15 +137,22 @@ body {
     background-color: #ffee03;
     color:rgb(28 30 36);
   }
-
+#confettiCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(92, 46, 153, .08);
+    z-index: 1;}
 @media (max-width: 768px) {
 
     .button {
   
-      width: 100%; /* Button takes full width on smaller screens */
+      width: 80%; /* Button takes full width on smaller screens */
   
-      padding: 8px 8px; /* Reduced padding */
-  
+      padding: 2% 2% 7% 2%; /* Reduced padding */
+      bottom: 50%;
+      right: 0%;
+      height: 60px;
       font-size: 40px; /* Smaller font size */
       text-align: center;
   
