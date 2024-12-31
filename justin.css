@@ -79,10 +79,14 @@ body {
   
       width: 100%; /* Button takes full width on smaller screens */
   
-      padding: 8px 15px; /* Reduced padding */
+      padding: 8px 8px; /* Reduced padding */
   
-      font-size: 14px; /* Smaller font size */
+      font-size: 40px; /* Smaller font size */
+      text-align: center;
   
+    }
+    #nameofthegame {
+        font-size: 20px;
     }
 }
 /* ffee03 yellow, 1c1e24 black, 9348f4 purple, f5f6ff gray
