@@ -72,4 +72,17 @@ body {
     background-color: #ffee03;
     color:rgb(28 30 36);
   }
+
+@media (max-width: 768px) {
+
+    .button {
+  
+      width: 100%; /* Button takes full width on smaller screens */
+  
+      padding: 8px 15px; /* Reduced padding */
+  
+      font-size: 14px; /* Smaller font size */
+  
+    }
+}
 /* ffee03 yellow, 1c1e24 black, 9348f4 purple, f5f6ff gray
