@@ -147,11 +147,11 @@ body {
 
     .button {
   
-      width: 80%; 
-      height: 60px;
+      width: 90%; 
+      height: 130px;
       padding: 2% 2% 7% 2%; 
       bottom: 50%;
-      right: -10%;
+      right: -30%;
       height: 60px;
       font-size: 40px; 
       text-align: center;
@@ -159,6 +159,13 @@ body {
     }
     #nameofthegame {
         font-size: 30px;
+    }
+    #letter {
+        width:90%;
+    }
+    body {
+        overflow: visible;
+
     }
 }
 /* ffee03 yellow, 1c1e24 black, 9348f4 purple, f5f6ff gray
