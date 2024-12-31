@@ -160,9 +160,9 @@ body {
         font-size: 30px;
     }
     #letter {
-        right: 10%;
+        right: 5%;
         bottom: -10%;
-        width: 80%;
+        width: 90%;
         overflow: scroll;
         padding: 10px 10px;
 
