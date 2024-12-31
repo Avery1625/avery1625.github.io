@@ -147,18 +147,18 @@ body {
 
     .button {
   
-      width: 80%; /* Button takes full width on smaller screens */
-  
-      padding: 2% 2% 7% 2%; /* Reduced padding */
-      bottom: 50%;
-      right: 0%;
+      width: 80%; 
       height: 60px;
-      font-size: 40px; /* Smaller font size */
+      padding: 2% 2% 7% 2%; 
+      bottom: 50%;
+      right: -10%;
+      height: 60px;
+      font-size: 40px; 
       text-align: center;
   
     }
     #nameofthegame {
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 /* ffee03 yellow, 1c1e24 black, 9348f4 purple, f5f6ff gray
