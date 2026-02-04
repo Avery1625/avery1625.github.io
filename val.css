@@ -1,0 +1,74 @@
+.ooo {
+text-align:center;
+font-family: "Impact", sans-serif; 
+font-size: 5rem; 
+font-weight: 900; 
+
+}
+body {
+    background-color: #F760A4;
+    color:white;
+    font-family: "Impact", sans-serif; 
+    font-size: 2rem; 
+}
+.button{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-family: "Impact", sans-serif; 
+    font-size: 3rem; 
+    width: 300px;
+    height: 100px;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color:white;
+}
+#YAYYYY{
+
+background-color:#ED3963;
+
+}
+
+#noooo{
+background-color:#ED6939;
+}
+
+.esnupi {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
+
+p1 {
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+        font-size: 2rem; 
+        color:white;
+
+}
+
+#okaybruh{
+    background-color:#ED3963;
+    font-size: 1rem; 
+    font-family:Helvetica Neue,Helvetica,Arial,sans-serif;;
+
+}
+
+.button-container {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;   
+
+}
+#neverendinghorrors {
+ width: 50%;
+  height: 25%;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+background-color: #ED3963;
+}
